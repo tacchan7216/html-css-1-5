@@ -1,7 +1,7 @@
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 header {
@@ -10,108 +10,107 @@ header {
   text-align: center;
 }
 
-.nav-list{
+.nav-list {
   text-align: center;
-  padding:15px 0;
-  margin:0 auto;
+  padding: 15px 0;
+  margin: 0 auto;
   border-bottom: 1px solid #848282;
-  border-top:1px solid #848282;
+  border-top: 1px solid #848282;
 }
 
-.nav-list-item{
+.nav-list-item {
   list-style: none;
   display: inline-block;
-  margin:0 20px;
+  margin: 0 20px;
 }
 
-.main{
+.main {
   width: 800px;
-  margin:50px auto;
-  display:flex;
-  flex-wrap:wrap;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.box-1{
-  width:200px;
+.box1 {
+  width: 200px;
   height: 200px;
-  background-color:#e6ffe9;
+  background-color: #e6ffe9;
 }
 
-.box-2{
+.box2 {
   width: 200px;
   height: 200px;
   background-color: #cbffd3;
 }
 
-.box-3{
+.box3 {
   width: 200px;
-  height:200px;
+  height: 200px;
   background-color: #aeffbd;
 }
 
-.box-4{
+.box4 {
   width: 200px;
   height: 200px;
   background-color: #93ffab;
 }
 
-.box-5{
-  width: 20px;
+.box5 {
+  width: 200px;
   height: 200px;
   background-color: #f3ffd8;
 }
 
-.box-6{
+.box6 {
   width: 200px;
   height: 200px;
   background-color: #edffbe;
 }
 
-.box-7{
+.box7 {
   width: 200px;
   height: 200px;
   background-color: #e9ffa5;
 }
 
-.box-8{
+.box8 {
   width: 200px;
   height: 200px;
   background-color: #e4ff8d;
 }
 
-.box-9{
+.box9 {
   width: 200px;
   height: 200px;
   background-color: #d9e5ff;
 }
 
-.box-10{
+.box10 {
   width: 200px;
   height: 200px;
   background-color: #bad3ff;
 }
 
-.box-11{
+.box11 {
   width: 200px;
   height: 200px;
-  background-color: #a4c6ff
+  background-color: #a4c6ff;
 }
 
-.box-12{
+.box12 {
   width: 200px;
   height: 200px;
   background-color: #8eb8ff;
 }
 
-footer{
-  height: 120px;
+footer {
   width: 100%;
+  height: 120px;
   text-align: center;
   line-height: 120px;
   background-color: #848282;
 }
 
-.footer-text{
-  color:#fff;
+.footer-text {
+  color: #fff;
 }
-
